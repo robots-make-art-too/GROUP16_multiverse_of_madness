@@ -1,4 +1,5 @@
-# Aesthetic Resources:
+# Riordan Palmer
+Aesthetic Resources:
 1. Skymap is an AR program which displays the locations of stars in the  sky as well as offering the user ways to interact with it. We could use similar sky manipulation and look at how they built the interface. https://play.google.com/store/apps/details?id=com.google.android.stardroid&hl=
 2. While we won't actively be using photoshop in our project, this kind of photo manipulation may help us write our code. https://www.youtube.com/watch?v=WKrkFfl8M6Q&ab_channel=PhotoshopTutorialsbyLayerLife
 3. If we wanted to have objects with 3d elements on what would seem like a 2d plane (like the sky) this would be a neat idea. https://developers.google.com/ar/develop/augmented-images
