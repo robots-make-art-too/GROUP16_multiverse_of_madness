@@ -13,7 +13,8 @@ https://aiartists.org/ai-generated-art-tools
 
 **Xin Zhou**
 # Technical Resources:
-    Sky replacement:
+chcek this
+sdlksndfj
 
 
 
