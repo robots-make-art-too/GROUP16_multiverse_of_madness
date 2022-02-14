@@ -80,5 +80,3 @@ Technical Resources:
 4. While this technology may not be available on all devices, depth sensoring would help greatly with seperating planes automatically. https://developers.google.com/ar/develop/depth
 5. Debugging will undoubtedly be critical in developping our program so these resources will ensure we can find issues in our work. https://developers.google.com/ar/develop/debugging
 =======
-
-
