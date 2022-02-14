@@ -1,4 +1,4 @@
-Tutorial:
+Technical Resources:
     Sky replacement:
 
 
@@ -28,5 +28,5 @@ Aesthetic:
         https://www2.kek.jp/ilc/wp-content/uploads/2018/10/michinokaimei_img1-1024x603.jpg
 
         img-qn.51miz.com/Element/00/74/00/81/1c25c4d7_E740081_372e8351.jpg
-        
+
         https://pic57.photophoto.cn/20201028/0017030516308023_b.jpg
