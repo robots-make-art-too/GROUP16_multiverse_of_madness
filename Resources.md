@@ -1,8 +1,6 @@
+**Jasmin Moradia**
+# Technical Resources:
 
-EDIT
-**Jasmin Moradia** EDIT
-# Technical Resources: EDIT
-EDIT
 
 1. Since our base idea is to make an artwork that needs an **AR engine** and different tools to incorporate **3D models**, I think we can use Spark AR in some way as it brings a lot of features that can help the pipeline. Also, it would solve the issue of platform as we can simple make an **instagram filter** which would take care of camera and gyroscopic data from a mobile device. I am experienced with making Instagram filters, and I know it helps in creative flexibility a lot. And for the coding part, **Spark AR supports javascript**, making it more aligned to EECS course requirements.
 
@@ -27,6 +25,8 @@ EDIT
 
 5. Recently, **AI art** is a hot topic in the art community. It keeps changing every moment and makes us question reality which makes sense for this project. 
 https://aiartists.org/ai-generated-art-tools
+
+
 
 **Xin Zhou**
 # Technical Resources:
@@ -63,8 +63,6 @@ https://aiartists.org/ai-generated-art-tools
         https://pic57.photophoto.cn/20201028/0017030516308023_b.jpg
 
 
-
-# Miss Crispen Cakes checking for merge manual patch
 
 # Riordan Palmer
 Aesthetic Resources:
