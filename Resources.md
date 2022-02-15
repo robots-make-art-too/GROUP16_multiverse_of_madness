@@ -20,6 +20,7 @@
 2.  **Cosmic Artworks from films such as Interstellar and Dr. Strange** really help my imagination. I was watching a documentary about how a few seconds of black hole animation took the creators months to program and make it mathematically perfect. It was so accurate that the creator wrote an actual paper about black holes.
 
 3. Videos from **The Coding Train Youtube channel** help in artistic way as well. Since I am not from a coding background, I watch those videos to understand what things can be achieved via pure coding. This is how I got the idea of moving across **3D noise for star-like effect**.
+Theres also a tutorial from the channel where an image/video changes to random numbers but you can still realise whats behind. Just like Matrix movie effect. Definately doable as we can changing realms in this project.
 
 4. Audio plays an equally important part in immersive artworks and often gets neglected. I think for cosmic artwork, no music can compete to **Hans Zimmer's melodies** in Christopher Nolan's movies.
 
