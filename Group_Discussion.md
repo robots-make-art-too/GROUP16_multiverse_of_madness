@@ -1,4 +1,4 @@
-# Base_Concept_Summary
+# Base Concept Summary
 - We plan to build an immersive AR experience that changes the elements of reality. 
 - Basically we intend to use some sort of luma/color keying algorithm to break apart foreground and background by replacing the sky and replacing that background with cosmic art pieces. 
 - The background is sensitive to gyroscopic data from mobile device's sensors and moves along with it. 
@@ -7,7 +7,7 @@
 - Our main artistic goal for the artwork is to break the laws of reality and have full flexibility of changing realm
 - We look forward to incorporate node-based programming style which gives us flexbility of adding layers of effects that run in alignment with each other.
 
-# Key_Discussion_Log
+# Key Discussion Log
 (written in third person)
 
 - Xin - Initial Idea of AR Room Decoration system or something that incorporated 3D models and AR.
@@ -23,7 +23,8 @@
 - Jasmin - Since we need an AR engine that uses camera as well as phone sensors, Spark AR can be of great help. Has a node-based programming style with Javascript integration. Solves the issue of platform as end product would be an instagram filter.
 - Would it be okay to use another software though? Email interaction with professor...
  -Xin- Skeptical about base idea. Proposes second idea - We scan a picture and present a 3D model for it. Can also use Unity.
-- Everyone voted. Sticked to the initial idea of cosmic artwork. Agreed on use of Unity.
+- Everyone voted. Sticked to the initial idea of cosmic artwork. 
+- Mishal - Agreed on use of Unity.
  -Xin - Worried about how would sky replacement work. Logic behind the working of it? Any working example?
 - Jasmin - Explained the concept of luma/color keying where similar pixels get masked out of image breaking it into foreground/background. Have achieved the effect in Max Jitter for a DATT project and softwares like After Effects and Premier Pro. 
 - As professor suggested in mail, everyone agreed on no need to necessarily worry about the implementation yet and work on ideas and scope for the current Phase.
