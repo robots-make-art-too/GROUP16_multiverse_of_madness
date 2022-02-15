@@ -20,13 +20,40 @@
 2.  **Cosmic Artworks from films such as Interstellar and Dr. Strange** really help my imagination. I was watching a documentary about how a few seconds of black hole animation took the creators months to program and make it mathematically perfect. It was so accurate that the creator wrote an actual paper about black holes.
 
 3. Videos from **The Coding Train Youtube channel** help in artistic way as well. Since I am not from a coding background, I watch those videos to understand what things can be achieved via pure coding. This is how I got the idea of moving across **3D noise for star-like effect**.
+Theres also a tutorial from the channel where an image/video changes to random numbers but you can still realise whats behind. Just like Matrix movie effect. Definately doable as we can changing realms in this project.
 
 4. Audio plays an equally important part in immersive artworks and often gets neglected. I think for cosmic artwork, no music can compete to **Hans Zimmer's melodies** in Christopher Nolan's movies.
 
 5. Recently, **AI art** is a hot topic in the art community. It keeps changing every moment and makes us question reality which makes sense for this project. 
 https://aiartists.org/ai-generated-art-tools
 
+=======
 
+**Josh**
+
+# Technical resources:
+
+Image Segmentation which could possibly help with sky manipulation: https://opencv-java-tutorials.readthedocs.io/en/latest/07-image-segmentation.html
+
+Gyroscope information: https://www.quora.com/How-does-smartphone-sensor-orientation-work
+
+https://android.processing.org/tutorials/sensors/index.html
+
+Manipulating and Keying video using Javascript https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Manipulating_video_using_canvas
+
+# Aesthetic Resources:
+
+Skyview: Educational stargazing AR application which could possibly help us and give us ideas for our sky replacement concept. https://apps.apple.com/us/app/skyview-lite/id413936865
+
+Starwalk 2: Another stargazing app which uses our devices' sensors and GPS to determine the exact position of planets, stars, and etc. https://starwalk.space/en
+
+This video has a similar concept to sky replacement that we could use for inspiration. https://www.youtube.com/watch?v=_fA0SI0dpJs&t=66s
+
+https://www.youtube.com/watch?v=0nlf6lpbaEw
+
+This method shown in the video is used for the apps I listed above: https://www.youtube.com/watch?v=Z4bBMpa4xWo
+
+=======
 
 **Xin Zhou**
 # Technical Resources:
@@ -62,7 +89,7 @@ https://aiartists.org/ai-generated-art-tools
 
         https://pic57.photophoto.cn/20201028/0017030516308023_b.jpg
 
-
+=======
 
 # Riordan Palmer
 Aesthetic Resources:
@@ -78,4 +105,31 @@ Technical Resources:
 3. Plane Detection will be very important if we choose to make a program manipulating the appearance of the sky. By targetting places of high contrast, feature points are created to calculate surfaces. https://www.stereolabs.com/docs/spatial-mapping/plane-detection/
 4. While this technology may not be available on all devices, depth sensoring would help greatly with seperating planes automatically. https://developers.google.com/ar/develop/depth
 5. Debugging will undoubtedly be critical in developping our program so these resources will ensure we can find issues in our work. https://developers.google.com/ar/develop/debugging
+
 =======
+
+**Mishal Khan**
+
+# Technical Resources
+    1. I can come up with many ways to achive a 3-D space in max with moving objects as if they have life in themas for whether i can use that in other softwares i am not sure yet.
+
+    2.I am not very skilled in processing but i can work out any kind of not too hard tasks given too me with the right amount of time.
+
+    3.I think using unity would be a great choice even though we have no experience in it because it is a famous worldwide used software from which great realistic game's were born.
+
+    4.3-D object can be made easily by using apps such as Sketchup and 3D painter that is given free with windows.
+
+    5.We can try to come up with techniques the Ai can pick up as signs of gestures such as hand waving or our eyes blinking or our mouth smiling.
+
+
+# Aesthetic Resources
+    1.Filters from many different apps specialy the 3d filters in samsung camera's was a huge influence to me in choosing this kind of project.
+    
+    2.Space films such as Alien and Sputnik really help my imagination in how we can design a 3d sky/space VR.
+
+    3.Videos from The Coding Train Youtube channel help me come up with ways of coding i didn't know before since i have little to no experience with coding, thanks to their videos i can come up with ways to to make the project look more immersive.
+    
+    4.Unity has thier own community where people help each other out from around the world with ther problems which we could use as a way to benefit our skills and understanding of unity.
+    
+    5.I've created few 3d Max spaces before and i was very inspired in making more 3-D, VR related work and hope to get more skilled in this category while doing this project.
+
