@@ -106,7 +106,9 @@ Technical Resources:
 3. Plane Detection will be very important if we choose to make a program manipulating the appearance of the sky. By targetting places of high contrast, feature points are created to calculate surfaces. https://www.stereolabs.com/docs/spatial-mapping/plane-detection/
 4. While this technology may not be available on all devices, depth sensoring would help greatly with seperating planes automatically. https://developers.google.com/ar/develop/depth
 5. Debugging will undoubtedly be critical in developping our program so these resources will ensure we can find issues in our work. https://developers.google.com/ar/develop/debugging
+
 =======
+
 **Mishal Khan**
 
 # Technical Resources
