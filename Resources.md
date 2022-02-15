@@ -15,6 +15,7 @@ Aesthetic Resources
 Skyview: Educational stargazing AR application which could possibly help us and give us ideas for our sky replacement concept. https://apps.apple.com/us/app/skyview-lite/id413936865
 
 Starwalk 2: Another stargazing app which uses our devices' sensors and GPS to determine the exact position of planets, stars, and etc. 
+https://starwalk.space/en
 
 This video has a similar concept to sky replacement that we could use for inspiration. https://www.youtube.com/watch?v=_fA0SI0dpJs&t=66s
 
