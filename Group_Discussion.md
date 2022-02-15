@@ -1,3 +1,5 @@
+# GROUP 16 - Multiverse of Madness
+
 # Base Concept Summary
 - We plan to build an immersive AR experience that changes the elements of reality. 
 - Basically, we intend to use some sort of luma/colour keying algorithm to break apart foreground and replacing the sky background with cosmic art pieces. 
