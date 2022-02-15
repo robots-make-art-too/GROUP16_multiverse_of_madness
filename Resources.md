@@ -1,4 +1,4 @@
-Technical resources
+Technical resources:
 
 Image Segmentation which could possibly help with sky manipulation: https://opencv-java-tutorials.readthedocs.io/en/latest/07-image-segmentation.html
 
@@ -10,7 +10,7 @@ Manipulating and Keying video using Javascript
 https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Manipulating_video_using_canvas
 
 
-Aesthetic Resources
+Aesthetic Resources:
 
 Skyview: Educational stargazing AR application which could possibly help us and give us ideas for our sky replacement concept. https://apps.apple.com/us/app/skyview-lite/id413936865
 
