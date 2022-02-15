@@ -1,4 +1,3 @@
-=======
 **Jasmin Moradia**
 # Technical Resources:
 
