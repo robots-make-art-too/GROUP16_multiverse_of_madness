@@ -24,12 +24,11 @@ I hope to get some advice.
 
 
 
-
 Solution Ideas:
+1. Rreplacing the whole sky perfectly is too hard to finish. But if we only replace the main part, then let the edges color become gradient color. That mean we need identify the highest or the most marginal part, for this we can use the tutorial link on the top. The result may be unnatural and slow. But this is the closest I can imagine of our idea and can improve accuracy.
+
 If we can not get a perfect method to replace the sky, I have some opinions on do a little bit change to finish this project:
-1. Triggered skybox by Image Target. Show skybox as a smaller model. We can go around it to see the different faces.
-2. Take the phone as the center point of skybox (we are in the center of skybox), turn the phone to see the whole skybox world.
+2. Triggered skybox by Image Target. Show skybox as a smaller model. We can go around it to see the different faces.
+3. Take the phone as the center point of skybox (we are in the center of skybox), turn the phone to see the whole skybox world.
 
-
-All the opinions are based on my knowledge and the information I have found.So probably there are more methods. 
-Of course I would like to try some new things. But as a student, I want to get the highest grade I can reach. So before we start, I hope we can know what the difficulties we will face, and any definite solution or a demo of technology we have.
+Those are all basic on my knowledge level. So should have more methods and I would like to discuss.
