@@ -1,6 +1,6 @@
 # Base Concept Summary
 - We plan to build an immersive AR experience that changes the elements of reality. 
-- Basically, we intend to use some sort of luma/colour keying algorithm to break apart foreground and background by replacing the sky and replacing that background with cosmic art pieces. 
+- Basically, we intend to use some sort of luma/colour keying algorithm to break apart foreground and replacing the sky background with cosmic art pieces. 
 - The background is sensitive to gyroscopic data from mobile device's sensors and moves along with it. 
 - The base layer of the background would be a 3D skybox with additional layers of 3D objects and noise animations. 
 - Since our theme is based on cosmic art, we have a wide window of opportunities as there are practically no limits to things we can add. 
@@ -18,7 +18,7 @@
 - Others agreed to incorporate other software due to our prior experience with Max and less experience in coding. We will add more functionality as we learn more coding.
 - Jasmin - New layer of 3D noise can be added to achieve a star-like effect that is sensitive to gyroscopic data and device movements. It gives a sense of moving across stars.
 - Xin - Stars can be made interactive to hand movements...fly around or crash into one another.
-- Xin - Raised question. How would the artwork interact? Touch? Cursor (if on pc)? or Hand?
+- Xin - (Raised question) How would the artwork interact? Touch? Cursor (if on pc)? or Hand?
  -Jasmin - Ideally, the movements of the skybox should be automated according to the sensor data. However, hand movement detection can be added if coding knowledge isn't a constraint in future.
 - Jasmin - Since we need an AR engine that uses a camera and phone sensors, Spark AR can be of great help. It has a node-based programming style with Javascript integration. It also solves the issue of the platform as the end product would be an Instagram filter.
 - Would it be okay to use another software, though? Email interaction with professor...
