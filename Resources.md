@@ -1,6 +1,7 @@
 **Jasmin Moradia**
 # Technical Resources:
 
+
 1. Since our base idea is to make an artwork that needs an **AR engine** and different tools to incorporate **3D models**, I think we can use Spark AR in some way as it brings a lot of features that can help the pipeline. Also, it would solve the issue of platform as we can simple make an **instagram filter** which would take care of camera and gyroscopic data from a mobile device. I am experienced with making Instagram filters, and I know it helps in creative flexibility a lot. And for the coding part, **Spark AR supports javascript**, making it more aligned to EECS course requirements.
 
 2. For the **sky replacement logic**, we can use **Luma/Color** keying which is simply an algorithm that masks out pixels of same kind i.e, brighter or blue colored pixels in this case. I think many art softwares can do that. I have achieved similar effect in Max while working on a DATT 1010 project. 
@@ -19,9 +20,9 @@
 2.  **Cosmic Artworks from films such as Interstellar and Dr. Strange** really help my imagination. I was watching a documentary about how a few seconds of black hole animation took the creators months to program and make it mathematically perfect. It was so accurate that the creator wrote an actual paper about black holes.
 
 3. Videos from **The Coding Train Youtube channel** help in artistic way as well. Since I am not from a coding background, I watch those videos to understand what things can be achieved via pure coding. This is how I got the idea of moving across **3D noise for star-like effect**.
+Theres also a tutorial from the channel where an image/video changes to random numbers but you can still realise whats behind. Just like Matrix movie effect. Definately doable as we can changing realms in this project.
 
 4. Audio plays an equally important part in immersive artworks and often gets neglected. I think for cosmic artwork, no music can compete to **Hans Zimmer's melodies** in Christopher Nolan's movies.
 
 5. Recently, **AI art** is a hot topic in the art community. It keeps changing every moment and makes us question reality which makes sense for this project. 
 https://aiartists.org/ai-generated-art-tools
-
