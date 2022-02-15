@@ -1,3 +1,5 @@
+Xin Zhou
+
 Question about the technology of Sky Region Detection:
 
 I did some research about the methods, and depend on our target and our programming level, I got following conclusion. I hope to discuss with everybody.
