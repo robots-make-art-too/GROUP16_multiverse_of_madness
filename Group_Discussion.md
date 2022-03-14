@@ -30,3 +30,13 @@
  -Xin - Worried about how sky replacement would work. The logic behind the working of it? Any working example?
 - Jasmin - Explained the concept of luma/colour keying where similar pixels get masked out of the image, breaking it into foreground/background. Have achieved the effect in Max Jitter for a DATT project and softwares like After Effects and Premiere Pro. 
 - As the professor suggested during email interaction, everyone agreed on no need to necessarily worry about the implementation yet and work on ideas and scope for the current Phase.
+
+# Phase 2 Discussion
+-	Group Meeting on March 14th going over phase 2 and next steps
+-	Group Members Present: Riordan, Josh, Jasmin, Xin Zhou
+-	Everyone satisfied with Phase 2 results
+-	Moving from here we will each work on adding more models and scans for the program
+-	Group communication very important and will work to stay in touch better
+-	We will be learning more AR functions in the coming weeks in lecture so we will look to those for things to add
+-	Discussed using LiveAR or other software like Unity
+ -	Will likely continue with LiveAR but we will make that decision when more information is released regarding phase 3
