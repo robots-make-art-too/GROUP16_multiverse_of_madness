@@ -9,9 +9,7 @@
 - Our main artistic goal for the artwork is to break the laws of reality and have complete flexibility in realm bending effects.
 - We look forward to incorporating a node-based programming style that gives us the flexibility of adding layers of effects that run in alignment with each other.
 
-# Key Discussion Log
-(written in third person)
-
+# Phase 1 Discussion
 - Xin - Initial Idea of AR Room Decoration system or something that incorporated 3D models and AR.
 - Jasmin - Agreed with AR. Suggested making an AR-based sky replacement filter on Instagram due to prior experience with sky replacement effect and Instagram filters. Sky would be replaced with a cosmic background. 
 - Xin- Agreed to provide 3D models due to prior experience in 3D modelling.
