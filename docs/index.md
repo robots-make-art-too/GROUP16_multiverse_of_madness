@@ -44,6 +44,9 @@ Watch [Full Video](https://drive.google.com/file/d/1GZh5S8cb0CitseI6WiguvvhZbLj8
 
 # Project Process
 
+### Marker info:
+Our project includes 6 constellation models. Each model has a specific printed marker assigned to it.
+
 ### Future Update
 
 - add more object such as constellations
