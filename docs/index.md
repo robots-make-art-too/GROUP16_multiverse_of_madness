@@ -45,7 +45,8 @@ Watch [Full Video](https://drive.google.com/file/d/1GZh5S8cb0CitseI6WiguvvhZbLj8
 # Project Process
 
 ### Marker info:
-Our project includes 6 constellation models. Each model has a specific printed marker assigned to it.
+- Our project includes 6 major 3D models depicting a constellation- Aquarius, Aries, Cancer, Libra, Sagittarius, Scorpio . 
+- Each model has a specific printed marker assigned to it.
 
 ### Future Update
 
