@@ -30,7 +30,7 @@
 # Project Idea
 ### The universe in you room
 
-- You can find planets, nebul and constellations.
+- You can find planets, nebulas and constellations.
 - After download and install on your Android device, you can rotate to see what's around you.
 - You also can interact with the object. Let the meteorite explode, or connect the stars into a constellation.
 
@@ -48,9 +48,9 @@ Watch [Full Video](https://drive.google.com/file/d/1GZh5S8cb0CitseI6WiguvvhZbLj8
 - Our project includes 6 major 3D models depicting a constellation- Aquarius, Aries, Cancer, Libra, Sagittarius, Scorpio . 
 - Each model has a specific printed marker assigned to it.
 
-### Future Update
+### Future Updates
 
-- add more object such as constellations
-- add animation and interact system
-- Develop Material
-- Develop Shader
+- Add more objects such as constellations
+- Add animation and interactive system
+- Develop Materials
+- Develop Shaders
