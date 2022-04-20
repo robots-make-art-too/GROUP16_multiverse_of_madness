@@ -36,7 +36,6 @@
 
 
 
-
 # Demo Exhibit
 
 Watch [Full Video](https://drive.google.com/file/d/1GZh5S8cb0CitseI6WiguvvhZbLj8uNk5/view?usp=sharing)
@@ -49,7 +48,6 @@ Watch [Full Video](https://drive.google.com/file/d/1GZh5S8cb0CitseI6WiguvvhZbLj8
 - Each model has a specific printed marker assigned to it.
 
 ### Future Updates
-
 - Add more objects such as constellations
 - Add animation and interactive system
 - Develop Materials
