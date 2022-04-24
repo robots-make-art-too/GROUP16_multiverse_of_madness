@@ -38,7 +38,7 @@
 
 # Demo Exhibit
 
-Watch [Full Video](https://drive.google.com/file/d/1GZh5S8cb0CitseI6WiguvvhZbLj8uNk5/view?usp=sharing)
+Watch [Full Video](https://drive.google.com/file/d/1Pum6vIqWMF7nOc8x-bdXrNOoES4EDqvX/view?usp=sharing)
 
 
 # Project Process
